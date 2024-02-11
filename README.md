@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Isak Bego</h1>
 <h3 align="center">A passionate Computer Science Student @AUBG</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=isak-bego&label=Profile%20views&color=0e75b6&style=flat" alt="isak-bego" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=isak-bego" alt="isak-bego" /></a> </p>
-
 - 🌱 I’m currently learning **React, NodeJS, Unit Testing**
 
 - 📫 How to reach me **isakbego@gmail.com**
