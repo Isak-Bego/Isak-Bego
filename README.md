@@ -62,3 +62,13 @@
 </div>
 
 ###
+
+<div align="center">
+  <div>
+    <img src="https://github-readme-stats.vercel.app/api?username=Isak-Bego&theme=dracula&show_icons=true&hide_border=true&count_private=true"><img>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Isak-Bego&theme=dracula&hide_border=true"><img>
+  </div>
+  <div>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isak-Bego&theme=dracula&show_icons=true&hide_border=true&layout=compact"><img>
+  </div>
+</div>
