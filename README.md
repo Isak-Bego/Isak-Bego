@@ -1,11 +1,3 @@
-<h2 align="center">Hi 👋🏻! Welcome to my creative playground!</h2>
-
-###
-
-<img align="right" height="150" src="https://s3-us-west-2.amazonaws.com/sfmomaopenspace/wp-content/uploads/2011/07/seashells2.jpg"  />
-
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
@@ -66,9 +58,5 @@
 <div align="left">
   <div>
     <img src="https://github-readme-stats.vercel.app/api?username=Isak-Bego&theme=dracula&show_icons=true&hide_border=true&count_private=true"><img>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Isak-Bego&theme=dracula&hide_border=true"><img>
-  </div>
-  <div>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isak-Bego&theme=dracula&show_icons=true&hide_border=true&layout=compact"><img>
   </div>
 </div>
